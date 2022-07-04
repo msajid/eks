@@ -3,7 +3,7 @@ kind: ClusterConfig
 
 metadata:
   name: basic-cluster
-  region: ${eu-north-1}
+  region: ${region}
 
 nodeGroups:
   - name: ng-1
